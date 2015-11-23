@@ -12,7 +12,7 @@ VPN cho phép các máy tính truyền thông với nhau thông qua một môi t
 
 - **Sự tin cậy (Confidentiality)**: Người gửi có thể mã hoá các gói dữ liệutrước  khi  truyền  chúng  ngang  qua  mạng.  Bằng  cách  làm  như  vậy, không một ai có thể  truy nhập thông tin mà không được phép, mà nếu lấy được thông tin thì cũng không đọc được vì thông tin  đã  được mã hoá.
  
--	***Tính  toàn  vẹn  dữ  liệu  (Data  Integrity)***:  Người  nhận  có  thể  kiểm  tra rằng dữ liệu đã  được truyền qua mạng Internet mà không có sự thay đổi nào.
+-	**Tính  toàn  vẹn  dữ  liệu  (Data  Integrity)**:  Người  nhận  có  thể  kiểm  tra rằng dữ liệu đã  được truyền qua mạng Internet mà không có sự thay đổi nào.
 
 -	**Xác thực nguồn gốc (Origin Authentication)**: Người nhận có thể xác thực nguồn gốc của gói dữ liệu, đảm bảo và công nhận nguồn thông tin.
 
