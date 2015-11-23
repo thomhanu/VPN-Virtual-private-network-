@@ -75,7 +75,7 @@ khả năng kết nối điểm điểm nhanh của PPTP.
 
   - L2TP chậm hơn so với  PPTP hay L2F bởi vì nó dùng IPSec để xác nhận mỗi gói dữ liệu nhận được.
   
-  - Mặc dù PPTP được lưu chuyển như một giai pháp VPN dựng sẵn, một Routing and Remote Access Server (RRAS) cần có những cấu   hình mở rộng
+  - Mặc dù PPTP được lưu chuyển như một giải pháp VPN dựng sẵn, một Routing and Remote Access Server (RRAS) cần có những cấu   hình mở rộng
 
 
 ####4.3	SSTP( Secure Socket Tunneling Protocol)
